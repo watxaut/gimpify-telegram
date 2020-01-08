@@ -1,8 +1,6 @@
 # Remove token from Git
-src/bot/auth.py
-src/search/auth.py
-src/gimp/faces.json
-src/gimp/backgrounds.json
+src/secret.py
+adritify_img.tar
 
 .idea/
 __pycache__/
